@@ -1,4 +1,4 @@
-name: first
+name: First Action
 
 on:
  push:
