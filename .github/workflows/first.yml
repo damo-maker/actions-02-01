@@ -1,6 +1,6 @@
 name: First Action
 
-on: push
+on: [push]
 
 jobs:
   job1:
