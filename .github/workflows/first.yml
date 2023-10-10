@@ -2,9 +2,6 @@ name: first
 
 on:
  push:
-  branches:
-   - main
-   - develop
  pull_request:
   types: [closed]
 
